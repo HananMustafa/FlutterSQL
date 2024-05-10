@@ -1,6 +1,6 @@
 Hi Welcome to my repository!
 
-In this repositery I have connected the MySQL (phpMyAdmin) database to Flutter(Dart), THE MOST EASIEST WAY!
+In this repository I have connected the MySQL (phpMyAdmin) database to Flutter(Dart), THE MOST EASIEST WAY!
 
 Two things I have done in this project:
 1) Connected my Flutter app to SQL database.
