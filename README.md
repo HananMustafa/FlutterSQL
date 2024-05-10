@@ -6,6 +6,10 @@ Two things I have done in this project:
 1) Connected my Flutter app to SQL database.
 2) Saving data into the database.
 
+Languages:
+1) Dart (for backend code)
+2) php (for serverside code)
+   
 Pre-requisites:
 1) vscode/android studio
 2) flutter/dart and php setup
